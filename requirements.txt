@@ -1,0 +1,7 @@
+-e .
+
+# for tests
+nose
+
+# for manifest fixing
+check-manifest
